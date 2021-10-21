@@ -1,0 +1,2 @@
+# devriafytask1
+FUNCTION TO VALIDATE THE STRING
